@@ -1,4 +1,4 @@
-# The Zen of Python
+# The Zen of JavaScript
 
 Красивое _______, чем уродливое.
 
